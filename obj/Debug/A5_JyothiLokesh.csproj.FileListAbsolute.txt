@@ -1,0 +1,10 @@
+C:\Loki\Classes\c#\Projects\A5_JyothiLokesh\A5_JyothiLokesh\bin\Debug\A5_JyothiLokesh.exe.config
+C:\Loki\Classes\c#\Projects\A5_JyothiLokesh\A5_JyothiLokesh\bin\Debug\A5_JyothiLokesh.exe
+C:\Loki\Classes\c#\Projects\A5_JyothiLokesh\A5_JyothiLokesh\bin\Debug\A5_JyothiLokesh.pdb
+C:\Loki\Classes\c#\Projects\A5_JyothiLokesh\A5_JyothiLokesh\obj\Debug\A5_JyothiLokesh.csprojResolveAssemblyReference.cache
+C:\Loki\Classes\c#\Projects\A5_JyothiLokesh\A5_JyothiLokesh\obj\Debug\A5_JyothiLokesh.Form1.resources
+C:\Loki\Classes\c#\Projects\A5_JyothiLokesh\A5_JyothiLokesh\obj\Debug\A5_JyothiLokesh.Properties.Resources.resources
+C:\Loki\Classes\c#\Projects\A5_JyothiLokesh\A5_JyothiLokesh\obj\Debug\A5_JyothiLokesh.csproj.GenerateResource.Cache
+C:\Loki\Classes\c#\Projects\A5_JyothiLokesh\A5_JyothiLokesh\obj\Debug\A5_JyothiLokesh.csproj.CoreCompileInputs.cache
+C:\Loki\Classes\c#\Projects\A5_JyothiLokesh\A5_JyothiLokesh\obj\Debug\A5_JyothiLokesh.exe
+C:\Loki\Classes\c#\Projects\A5_JyothiLokesh\A5_JyothiLokesh\obj\Debug\A5_JyothiLokesh.pdb
